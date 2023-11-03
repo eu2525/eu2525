@@ -17,11 +17,11 @@
 
 </div>
 
-## 🎉수상경력
+## 수상경력
 - 2020 Software Festival Junior Awards
 - 2021 National Police Commissioner's Award
 - 2023 Autumn Programming Contest Excellence Award
 
-## 🍀자격증
+## 자격증
 - 정보처리기능사
 - Adsp
