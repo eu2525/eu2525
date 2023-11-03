@@ -7,14 +7,20 @@
 - <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <br/>
   
+## GitHub Stats
+
 <div align="center">
   
-## GitHub Stats
 ![Sangjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=eu2525&show_icons=true&theme=cobalt) 
 <br>  
 <br>
 
+</div>
+
 ## Boj
+
+<div align="center">
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eu2525)](https://solved.ac/eu2525)
 <br>
