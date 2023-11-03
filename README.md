@@ -1,6 +1,10 @@
-# 안녕하세요 한상진입니다!
-- 학교 : 경희대학교
-- 언어 : <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+## About me
+- Hi, My name is Sangjin
+- I am a student at Kyunghee University.
+
+## Skills
+- <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <br/>
   
 <div align="center">
