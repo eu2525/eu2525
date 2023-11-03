@@ -3,9 +3,10 @@
 - 🌱 I’m currently learning C++/Python
 
 
-<div align="center"> 
+<div align="center">
+  
 ## GitHub Stats
-![Sangjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=eu2525&show_icons=true&theme=cobalt) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eu2525&layout=compact&theme=cobalt) 
+![Sangjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=eu2525&show_icons=true&theme=cobalt) 
 <br>  
 <br>
 
