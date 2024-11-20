@@ -1,20 +1,16 @@
 ## 😊 About me
-- Hi, My name is Sangjin
+- Hi, My name is Han Sangjin
 - I am a student at Kyunghee University.
 
-## Skills
-- <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-<br/>
-  
-
-## Boj
-
+## 🎓 Career and Academic Experience
 <div align="center">
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eu2525)](https://solved.ac/eu2525)
-<br>
+  
+| Company / School                          | Position                       | Period            |
+| ----------------------------------------- | ------------------------------ | ----------------- |
+| POSCO DX IT Academy                       | Trainee                        | 2024-11 — now     |
+| Naver Cloud                               | Data Engineer Intern           | 2024-10 — 2024-11 |
+| Data Marketing Korea                      | Data Engineer Intern           | 2024-07 — 2024-08 |
+| KHU Software Convergence                  | Undergraduate(Double Major)    | 2019-03 — now     |
 
 </div>
 
@@ -42,9 +38,18 @@
 - 경희대학교 SW 멤버쉽(2023.09-2024.02)
 - 빅데이터 연합 동아리 BOAZ 활동(2024.01-2025.01)
   - 22기 Data Engineering & 운영진(운영지원팀장)
-
+- 글쓰는 개발자 모임 글또 10기 (2024.10-2025.03)
+  
 ## 📖Certificate
 - 정보처리기능사
 - ADsP
 - SQLD
 - TOPCIT Level 3
+
+<div align="center">
+  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jineus/)](https://www.linkedin.com/in/jineus/)
+<a href="https://itcodeheaven.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FFFFFF?style=flat&logo=Storyblok&logoColor=000000"/></a>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=eu2525)](https://solved.ac/eu2525)
+
+</div>
