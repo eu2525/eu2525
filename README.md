@@ -71,7 +71,6 @@
 - 글쓰는 개발자 모임 글또 10기 (2024.10-2025.03)
   
 ## 📖Certificate
-- 정보처리기능사
 - ADsP
 - SQLD
 - TOPCIT Level 3
