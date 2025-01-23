@@ -1,5 +1,5 @@
 ## 😊 About me
-- Hi, My name is Han Sangjin
+- My name is Han Sangjin
 - I am a student at Kyunghee University.
 
 ## 🎓 Career and Academic Experience
