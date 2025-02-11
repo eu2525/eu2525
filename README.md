@@ -10,7 +10,7 @@
 | POSCO DX IT Academy                       | Full Stack Trainee             | 2024-11 — now     |
 | Naver Cloud                               | Data Engineer Intern           | 2024-10 — 2024-11 |
 | Data Marketing Korea                      | Data Engineer Intern           | 2024-07 — 2024-08 |
-| KHU Software Convergence                  | Undergraduate                  | 2019-03 — now     |
+| KHU Software Convergence                  | Undergraduate                  | 2019-03 — 2025-02 |
 
 </div>
 
